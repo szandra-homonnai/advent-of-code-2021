@@ -1,0 +1,13 @@
+{
+  "name": "advent-of-code-2021",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "author": "Szandra Homonnai",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
